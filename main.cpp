@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace
+using namespace 
 int main(){
-cout<<"Hello";
+cout<<"Hello world from smililyy" << endl;
 }
