@@ -4,7 +4,8 @@ class circle
   private:
       int x, y;
   public:
-    circle();
+    void circle(){};
+    void circle(int);
   
     
 }
